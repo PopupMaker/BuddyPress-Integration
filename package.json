@@ -1,0 +1,46 @@
+{
+  "name": "popup-maker-buddypress-integration",
+  "shortname": "pum-buddypress",
+  "version": "1.0.0",
+  "description": "Adds integrated functionality between Popup Maker & BuddyPress.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PopupMaker/BuddyPress-Integration.git"
+  },
+  "author": "WP Popup Maker",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PopupMaker/BuddyPress-Integration/issues"
+  },
+  "homepage": "https://wppopupmaker.com/works-with/buddypress/",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-git": "^2.0.0",
+    "gulp-ignore": "^2.0.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-order": "^1.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sort": "^2.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-watch": "^5.0.1",
+    "gulp-wp-pot": "^2.3.2",
+    "gulp-zip": "^4.2.0",
+    "jshint": "^2.9.1",
+    "merge-stream": "^1.0.1",
+    "notify-send": "^0.1.2"
+  }
+}
