@@ -13,6 +13,8 @@ Adds integrated functionality between Popup Maker & BuddyPress.
 
 This free plugin add some directly integrated functionality between Popup Maker & BuddyPress.
 
+Popup Maker & BuddyPress are required to activate the following features.
+
 = BuddyPress Targeting Conditions
 
 * Is a BuddyPress Page
