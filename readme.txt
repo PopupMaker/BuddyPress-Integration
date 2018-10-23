@@ -5,7 +5,7 @@ Plugin URI: https://wppopupmaker.com/works-with/buddypress/?utm_source=BuddyPres
 Tags: buddypress, popup, popup maker, targeting
 Requires at least: 3.6
 Tested up to: 5.0.0
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 Adds integrated functionality between Popup Maker & BuddyPress.
 
