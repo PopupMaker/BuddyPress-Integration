@@ -11,9 +11,9 @@ Adds integrated functionality between Popup Maker & BuddyPress.
 
 == Description ==
 
-This free plugin add some directly integrated functionality between Popup Maker & BuddyPress.
+This free plugin add some directly integrated functionality between [Popup Maker](https://wordpress.org/plugins/popup-maker/) & [BuddyPress](https://wordpress.org/plugins/buddypress/).
 
-Popup Maker & BuddyPress are required to activate the following features.
+[Popup Maker](https://wordpress.org/plugins/popup-maker/) & [BuddyPress](https://wordpress.org/plugins/buddypress/) are required to activate the following features.
 
 = BuddyPress Targeting Conditions
 
@@ -31,6 +31,8 @@ Popup Maker & BuddyPress are required to activate the following features.
 * Is Action Variable: Option to enter which components to test for.
 
 Of course  you can always use the (!) button to check for the opposite or inverse of any condition, or use the AND / OR grouping for complex targeting.
+
+Got a bug report, feature request or patch? [Find us on Github](https://github.com/PopupMaker/BuddyPress-Integration)
 
 == Changelog ==
 
