@@ -71,8 +71,8 @@ class PUM_BuddyPress_Upgrades {
 			$this->data['upgraded_from'] = $this->data['version'];
 			$this->data['version']       = PUM_BuddyPress::$VER;
 
-			// Reset popup asset cache on update.
-			PUM_AssetCache::reset_cache();
+			// Reset JS/CSS assets for regeneration.
+			pum_reset_assets();
 		}
 
 		if ( $data !== $this->data ) {
